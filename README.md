@@ -19,12 +19,12 @@ To get started with this project, make sure you have Go installed on your comput
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/username/learning-golang.git
+    git clone https://github.com/NuricoVicyyanto/golang-learn.git
     ```
 
 2. Navigate to the project folder:
     ```bash
-    cd learning-golang
+    cd golang-learn
     ```
 
 3. Run the application using Go:
